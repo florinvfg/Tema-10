@@ -1,0 +1,1 @@
+El fichero copia tendra el mismo nombre con el prefijo <<copia_de_>>.
